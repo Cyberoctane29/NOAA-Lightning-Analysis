@@ -61,13 +61,21 @@ The project provides key insights into lightning activity patterns:
 - **Outliers**: Certain years, such as 1987 and 2019, show anomalous lightning strike counts due to data completeness issues or genuine variations.
 - **Data Quality**: Missing data is concentrated over bodies of water and regions outside the United States, highlighting limitations in geographic coverage.
 
-## Project Highlights
+## 📊 Project Highlights
 
-- **Data Loading & Cleaning**: Efficiently loads and cleans large datasets using pandas and NumPy.
-- **Temporal Analysis**: Aggregates and analyzes lightning strike data by month, week, and quarter to identify seasonal trends.
-- **Geographic Visualization**: Uses Plotly to create interactive maps for visualizing lightning strike locations and regional hotspots.
-- **Outlier Detection**: Identifies and investigates outliers using statistical methods and visualizations.
-- **Data Validation**: Ensures data quality by checking for missing values, inconsistencies, and geographic accuracy.
+* **Data Loading & Cleaning:** Efficiently loaded and cleaned large datasets using **pandas** and **NumPy**.
+* **Temporal Analysis:** Aggregated and analyzed lightning strike data by **month, week, and quarter** to identify seasonal trends.
+* **Geographic Visualization:** Created interactive maps with **Plotly** to visualize lightning strike locations and regional hotspots.
+* **Outlier Detection:** Identified and investigated outliers using statistical methods and visualizations.
+* **Data Validation:** Ensured data quality by checking for **missing values**, inconsistencies, and geographic accuracy.
+* **Interactive Visualizations:** Built dynamic maps and charts with **Plotly** and designed interactive **Tableau dashboards**, featuring **generic-to-specific narrative structures** for enhanced data storytelling.
+
+## 📈 Tableau Visualizations
+
+* [NOAA Lightning Strike - Line Chart](https://public.tableau.com/app/profile/saswat.seth/viz/NOAAlightningstrike-1_17363480762740/Linechart)
+* [NOAA Lightning Strike - Histogram](https://public.tableau.com/app/profile/saswat.seth/viz/NOAAlightningstrike-2/Histogram)
+* [Lightning Strike Trends: Interactive Analysis Dashboard](https://public.tableau.com/app/profile/saswat.seth/viz/LightningStrikeTrendsInteractiveAnalysis/Dashboard1)
+* [Generic-to-Specific Narrative (NOAALS Dataset Story)](https://public.tableau.com/app/profile/saswat.seth/viz/Generic-to-specificorganisationNOAALSdataset/Story1)
 
 ## Future Work
 
